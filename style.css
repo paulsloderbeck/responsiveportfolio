@@ -24,3 +24,8 @@ footer {
     border-style: solid;
     padding: 2rem;
 }
+
+.card-img-top {
+    width: 150px;
+    height: 150px;
+}
