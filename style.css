@@ -19,6 +19,8 @@ footer {
     line-height: 60px;
 }
 
-.container {
+.container-lg {
     background-color: slategray; 
+    border-style: solid;
+    padding: 2rem;
 }
