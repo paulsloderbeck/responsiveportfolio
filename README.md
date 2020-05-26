@@ -10,4 +10,3 @@ The contact page was created using Form and Button components from the Bootstrap
 
 This was a very helpful project as a first introduction to building responsive pages with the Bootstrap framework. The author looks forward to continuing to learn his way around this powerful tool. 
 
-Check out the finished product at https://paulsloderbeck.github.io/responsiveportfolio/index.html!
