@@ -1,46 +1,45 @@
 html {
-    position: relative;
-    min-height: 100%;
+  position: relative;
+  min-height: 100%;
 }
 
 body {
-    background-color: whitesmoke;
+  background-color: whitesmoke;
 }
 
 header {
-    margin-bottom:60px;
+  margin-bottom: 60px;
 }
 
 h1 {
-   color: white; 
+  color: white;
 }
 footer {
-    position:absolute;
-    bottom: 0;
-    width: 100%;
-    height: 60px;
-    line-height: 60px;
-    margin-top: 60px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  margin-top: 60px;
 }
 
 .navbar-custom {
-    background-color: #FCCA46;
+  background-color: #fcca46;
 }
 
 .container-lg {
-    background-color: #233D4D; 
-    border-style: solid;
-    padding: 2rem;
-    margin-bottom: 20px;
+  background-color: #233d4d;
+  border-style: solid;
+  padding: 2rem;
+  margin-bottom: 20px;
 }
-
 
 .card-img-top {
-    width: 200px;
-    height: 200px;
+  width: 199px;
+  height: auto;
 }
 
-.card{
-    width:200px;
-    margin-bottom: 15px;
-} 
+.card {
+  width: 200px;
+  margin-bottom: 15px;
+}
